@@ -1,3 +1,3 @@
 # Test
 测试一下github的使用
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/y1x2c3/Test/blob/master/image/4-1FZ4112F9.jpg)
